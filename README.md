@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/VendorITC/PipelineTest/_apis/build/status/vendorST.pipelines-java?branchName=master)](https://dev.azure.com/VendorITC/PipelineTest/_build/latest?definitionId=2&branchName=master)
 
 # Contributing
 

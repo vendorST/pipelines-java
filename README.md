@@ -1,5 +1,7 @@
 [![Build Status](https://dev.azure.com/VendorITC/PipelineTest/_apis/build/status/vendorST.pipelines-java?branchName=master)](https://dev.azure.com/VendorITC/PipelineTest/_build/latest?definitionId=2&branchName=master)
 
+Testing
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
